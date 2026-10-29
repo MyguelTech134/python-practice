@@ -5,4 +5,4 @@ for i in range(1, 7):
     if num % 2 == 0:
         total += num
         count += 1
-print(f"The sumary of total even numbers where {sum}, and you typed {count} even numbers")
+print(f"The sum of the even numbers is {total}, and you entered {count} even numbers.")
