@@ -11,5 +11,3 @@ for i in range(5):
 
 average = total / 5
 print(f"The average of the class was {average:.2f}, and over all, {cont} grades were atleast 7")
-    
-    
